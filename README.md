@@ -47,6 +47,18 @@ To use any of the flows available in this repository, follow these steps:
 
     Deploy: Once satisfied, deploy the flow to your production environment for ongoing use.
 
+Here are some snaps of the flow. You can see the logic added in the conditions too.
+
+Logic to add 2 days to the "Date" mentioned on Sheet
+
+!["Condition"](./JobTrackerReferral2dayreminderflow_20240214064544/images/4.png)
+
+!["Condition"](./JobTrackerReferral2dayreminderflow_20240214064544/images/3.png)
+
+!["Condition"](./JobTrackerReferral2dayreminderflow_20240214064544/images/2.png)
+
+!["Google Sheet"](./JobTrackerReferral2dayreminderflow_20240214064544/images/1.png)
+
 Benefits:
 
     Helps job seekers stay organized and proactive in their job search efforts.
