@@ -59,6 +59,12 @@ Logic to add 2 days to the "Date" mentioned on Sheet
 
 !["Google Sheet"](./JobTrackerReferral2dayreminderflow_20240214064544/images/1.png)
 
+These are the examples of email which the user receives after waiting for 2 days
+
+!["EmailTemplate"](./JobTrackerReferral2dayreminderflow_20240214064544/images/email1.png)
+
+!["EmailTemplate"](./JobTrackerReferral2dayreminderflow_20240214064544/images/email2.png)
+
 Benefits:
 
     Helps job seekers stay organized and proactive in their job search efforts.
