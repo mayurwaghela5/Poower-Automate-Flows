@@ -5,7 +5,7 @@ What is Power Automate?
 
 Power Automate (formerly known as Microsoft Flow) is a cloud-based service that allows users to create automated workflows across a multitude of apps and services, without the need for extensive coding knowledge. With Power Automate, you can automate repetitive tasks, synchronize files, collect data, and more, all with minimal effort.
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 These are the flows:
 
@@ -47,6 +47,11 @@ To use any of the flows available in this repository, follow these steps:
 
     Deploy: Once satisfied, deploy the flow to your production environment for ongoing use.
 
+Benefits:
+
+    Helps job seekers stay organized and proactive in their job search efforts.
+    Automates the follow-up process for job referral requests, saving time and effort.
+    Ensures timely communication with referrers, increasing the likelihood of successful referrals.
 
 
 ------------------------------------------------------------------------------------------------------------------------
