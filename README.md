@@ -7,7 +7,29 @@ Power Automate (formerly known as Microsoft Flow) is a cloud-based service that 
 
 
 
+These are the flows:
 
+1. Title: Job Referral Reminder Flow
+
+Description:
+
+The Job Referral Reminder Flow is a workflow designed to assist active job seekers in keeping track of their job referral requests and follow-ups. This workflow utilizes Google Sheets and Gmail connections to automate reminders for job referral requests that have not been acted upon after a specified time period.
+
+Functionality:
+
+    Trigger: The flow is triggered to run every day at 9pm CST time.
+
+    Data Management:
+        Google Sheets: The workflow accesses a Google Sheet where job referral requests are logged. The sheet contains columns for the company name, job application link, job title, status of the application, and the date when the referral request was made.
+
+    Condition Check:
+        The workflow checks the status of the job application in the Google Sheet. It specifically looks for entries where the status is marked as "PENDING."
+
+    Time Check:
+        The workflow calculates the time elapsed since the referral request was made. If it has been 2 days since the request was made and the application status is still "PENDING," the workflow proceeds.
+
+    Action:
+        If the conditions are met, the workflow sends an email reminder to the person who was asked for the job referral. The email includes details such as the company name, job application link, and job title.
 
 How to Use
 
@@ -26,6 +48,8 @@ To use any of the flows available in this repository, follow these steps:
     Deploy: Once satisfied, deploy the flow to your production environment for ongoing use.
 
 
+
+------------------------------------------------------------------------------------------------------------------------
 
 Contributions
 
