@@ -29,7 +29,7 @@ Functionality:
         The workflow calculates the time elapsed since the referral request was made. If it has been 2 days since the request was made and the application status is still "PENDING," the workflow proceeds.
 
     Action:
-        If the conditions are met, the workflow sends an email reminder to the person who was asked for the job referral. The email includes details such as the company name, job application link, and job title.
+        If the conditions are met, the workflow sends an email reminder to the person who was asked for the job referral. The email includes details such as the company name, job application link, and job title. Also, it updates the "Update" column in the sheet mentioning on what date was the reminder sent.
 
 How to Use
 
